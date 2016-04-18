@@ -8,5 +8,7 @@ My introduction Video can be found [here](https://www.youtube.com/watch?v=CBSyPH
 
 It would take around one hundred fifty one billion six hundred million lego bricks to rebuild the Golden Gate Bridge.  Want to find out how I know?  run avengersAssebleBridge today!
 
+In an intense game of Scrable
+
 
 
