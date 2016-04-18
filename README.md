@@ -14,5 +14,7 @@ Have aliens or other otherworldly being stolen your keyboard, only to replace th
 
 Have a excess of dates, and no stadardization to organize them? import my ISO library to fix them and get organized fast!
 
+ISOExecutableExample just uses the functions from ISOlib in an example executable
+
 
 
